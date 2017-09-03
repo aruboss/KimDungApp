@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary1">#81C784</color>
+    <color name="colorPrimary">#00838F</color>
+    <color name="colorPrimaryDark">#1B5E20</color>
+    <color name="colorAccent">#616161</color>
+
+    <color name="colorBackGroundTitle">#2E7D32</color>
+    <color name="colorBackGround">#388E3C</color>
+    <color name="colorWhiteE0">#E0E0E0</color>
+    <color name="colorWhitef5">#f5f5f5</color>
+    <color name="colorBlack75">#757575</color>
+    <color name="default_blackDB">#BDBDBD</color>
+
+    <color name="default_black61">#616161</color>
+    <color name="default_black21">#212121</color>
+    <color name="textColor">    #388E3C</color>
+    <color name="default_black42">#424242</color>
+    <color name="white">#ffffff</color>
+    <color name="color_text_tile">#2E7D32</color>
+    <color name="text_color_btn_kanji_klpt">#424242</color>
+
+</resources>

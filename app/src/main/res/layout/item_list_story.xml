@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    android:background="@drawable/back_ground_white">
+    <ImageView
+        android:id="@+id/image_truyen"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/bg_y_thien_do_long_ky"
+        />
+    <TextView
+        android:id="@+id/text_title_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/color_text_tile"
+        android:textSize="19dp"
+        android:text="ten truyen"
+        android:layout_toRightOf="@id/image_truyen"/>
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/image_truyen"
+        android:layout_below="@+id/text_title_item"
+        android:textColor="@color/default_black61"
+        android:textSize="17dp"
+        android:text="Tình trạng: Hoàn"
+        android:layout_marginLeft="2dp"
+       />
+</RelativeLayout>
+</LinearLayout>
